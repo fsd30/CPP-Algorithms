@@ -35,7 +35,7 @@ $ git push -u origin branchname
 
 1. Create upstream as our repository
 ```
-$ git remote add upstream ["https://www.github.com/fsd30/CPP-Algorithms](https://github.com/fsd30/CPP-Algorithms.git)"
+$ git remote add upstream "https://www.github.com/fsd30/CPP-Algorithms"
 ```
 
 2. Fetch upstream changes in local machine
