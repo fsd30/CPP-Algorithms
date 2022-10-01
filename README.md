@@ -1,11 +1,11 @@
 # <div align="center">🖥️CPP-ALGORITHMS💻</div>
 ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/siddharth25pandey/CPP-Programming?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/siddharth25pandey/CPP-Programming?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/siddharth25pandey/CPP-Programming?style=for-the-badge)
-![Pull Request](https://img.shields.io/github/issues-pr/siddharth25pandey/CPP-Programming?style=for-the-badge)
-![contributors](https://img.shields.io/github/contributors/siddharth25pandey/CPP-Programming?style=for-the-badge)
-![License](https://img.shields.io/github/license/siddharth25pandey/CPP-Programming?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/fsd30/CPP-Algorithms?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/fsd30/CPP-Algorithms?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/fsd30/CPP-Algorithms?style=for-the-badge)
+![Pull Request](https://img.shields.io/github/issues-pr/fsd30/CPP-Algorithms?style=for-the-badge)
+![contributors](https://img.shields.io/github/contributors/fsd30/CPP-Algorithms?style=for-the-badge)
+![License](https://img.shields.io/github/license/fsd30/CPP-Algorithms?style=for-the-badge)
 
 ### This repository is created to help beginners in their Open Source Contribution .
 
