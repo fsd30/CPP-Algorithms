@@ -4,7 +4,7 @@
 
 2. Clone the repository to your local machine
 ```
-$ git clone "https://www.github.com/{Username}/CPP-Programming.git"
+$ git clone "https://www.github.com/{Username}/CPP-Algorithms.git"
 ```
 where username is your GitHub account username.
 
@@ -35,7 +35,7 @@ $ git push -u origin branchname
 
 1. Create upstream as our repository
 ```
-$ git remote add upstream "https://www.github.com/siddharth25pandey/CPP-Programming"
+$ git remote add upstream ["https://www.github.com/fsd30/CPP-Algorithms](https://github.com/fsd30/CPP-Algorithms.git)"
 ```
 
 2. Fetch upstream changes in local machine
